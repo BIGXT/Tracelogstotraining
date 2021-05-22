@@ -1,10 +1,10 @@
 # Tracelogstotraining
 
-##What is Tracelogstotraining?
+## What is Tracelogstotraining?
 
 Tracelogstotraining is a project that transforms trace logs into training sets for machine learning models. Our training sample sets will be used for the training of the microservice fault diagnosis model.
 
-##How to use Tracelogstotraining？
+## How to use Tracelogstotraining？
 
 * Import trace logs (.json)
 * Setting parameters
@@ -19,6 +19,6 @@ Tracelogstotraining is a project that transforms trace logs into training sets f
     *  2: Filter original trace logs
 * Get the training sets
 
-##No trace logs？
+## No trace logs？
 
 We give a sample in the example/trace logs directory, you just need to move it to the root of the project.
